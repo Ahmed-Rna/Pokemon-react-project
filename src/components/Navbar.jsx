@@ -9,7 +9,7 @@ function Navbar() {
         </svg>
       </div>
       
-        <button className="btn  text-white fst-italic  py-0 px-4 rounded-pill fs-6" style={{ backgroundColor: "#291e61",border:"2px solid #342a9b",fontFamily:"sans-serif",fontFamily:"Luckiest Guy" }} type="submit">LOGIN</button>
+        <button className="btn  text-white fst-italic  py-0 px-4 rounded-pill fs-6" style={{ backgroundColor: "#291e61",border:"2px solid #342a9b",fontFamily:"Luckiest Guy" }} type="submit">LOGIN</button>
       
     </nav>
   );
