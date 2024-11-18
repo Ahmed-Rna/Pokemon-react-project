@@ -110,6 +110,726 @@ function Main1() {
                 </div>
               </div>
             </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <p className="text-center mt-3 text-white mb-0" style={{ fontSize: 10, fontWeight: 500, fontStyle: 'italic' }}>
+                  SCARLET & VIOLET TEMPORAL FORCES PACK
+                </p>
+                <img className="card-img" src="pack.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openPackModal}
+                    >OPEN the PACK!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $2.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
             
             
           </div>
@@ -117,6 +837,681 @@ function Main1() {
       ) : (
         <div id="box" className="container mt-1 w-75">
           <div className="row">
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div><div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
+            <div className="col-md-6 col-lg-3 mb-4">
+              <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
+                <img className="mask-img" src="Mask.png" alt="pack pic" />
+                <div
+                  className="container d-flex justify-content-center align-items-center"
+                  style={{
+                    backgroundColor: '#141c31',
+                    borderBottomRightRadius: '30px',
+                    borderBottomLeftRadius: '30px',
+                    padding: '10px',
+                  }}
+                >
+                  <span className=" d-flex justify-content-center align-items-center "
+                    style={{
+                      backgroundColor: "#201e36",
+                      padding: "0px",
+                      margin: "0px",
+                      borderRadius: "100px",
+                      border: "1px solid #403f62"
+
+                    }} >
+                    <button
+                      className="btn w-75"
+                      style={{
+                        textAlign: "center",
+                        letterSpacing: "0.01px",
+                        background: '#e0e5fe',
+                        fontFamily: "Bangers",
+                        fontSize: 17,
+                        color: '#3f51b5',
+                        borderRadius: '50px',
+                        padding: '2px 8px',
+                        color: '#342a9b',
+                        border: '2px solid #342a9b',
+                      }}
+                      onClick={openBoxModal}
+                    >PEEK INSIDE!
+                    </button>
+                    <span className="fs-5   " style={{ color: '#fff', padding: '0px 10px', fontSize: 1, fontFamily: "Bangers", paddingRight: '15px' }}>
+                      $10.56
+                    </span>
+                  </span>
+                </div>
+              </div>
+            </div>
             <div className="col-md-6 col-lg-3 mb-4">
               <div className="card" style={{ backgroundColor: '#1D2344', borderRadius: '30px' }}>
                 <img className="mask-img" src="Mask.png" alt="pack pic" />
