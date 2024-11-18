@@ -1,0 +1,56 @@
+/* styles.css */
+body {
+    margin: 0;
+    height: 100vh;
+    background-color: #0a0a17 /* Dark blue background */
+    
+     }
+  
+     .custom-purple-border {
+        border-color: #8b5cf6 !important;
+      }
+
+      .card-img{
+        height: 25vh;
+        width: 100%;
+        filter: drop-shadow(0 -0.8rem 1.3rem #74a4e2);
+        padding-top: 10px;
+        padding-bottom: 10px;
+        object-fit: contain;
+
+      }
+      .mask-img{
+        height: 29vh;
+        width: 100%;
+        object-fit: cover;  
+
+      }
+      .modal-content {
+        
+        color: #fff;
+        box-shadow: 0 0 30px rgba(0, 0, 0, 0.9);
+      }
+      
+      .btn-primary {
+        background-color: #342a9b;
+        border-color: #342a9b;
+      }
+      
+      .btn-primary:hover {
+        background-color: #4b3edb;
+        border-color: #4b3edb;
+      }
+      
+      .btn-close {
+        color: #fff;
+        opacity: 1;
+      }
+      
+      .modal-body img {
+        transition: transform 0.3s ease;
+      }
+      
+      .modal-body img:hover {
+        transform: scale(1.05);
+      }
+      
