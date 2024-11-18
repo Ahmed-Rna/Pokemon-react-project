@@ -8,8 +8,8 @@ function App() {
   return (
     <>
 
-      <Main1/>
-      {/* <AnimationScreen/> */}
+      {/* <Main1/> */}
+      <AnimationScreen/>
       {/* <Main2/> */}
     </>
   );

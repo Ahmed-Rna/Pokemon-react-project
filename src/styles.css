@@ -80,3 +80,13 @@ body {
         }
       }
       
+
+      /* Hide scrollbar in WebKit browsers */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar in Firefox */
+html {
+  scrollbar-width: none;
+}
