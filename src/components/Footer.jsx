@@ -9,7 +9,7 @@ export default function Footer() {
           <div className="col-md-4 d-flex align-items-stretch p-5 py-1 px-2">
             <div
               className="p-5 rounded-5 w-100 d-flex align-items-end justify-content-center "
-              style={{ backgroundColor: "#322e74",border:"5px solid #342a9b" }}
+              style={{ background: 'linear-gradient(180deg, #31246E 0%, #19144A 100%)',border:"5px solid #342a9b" }}
             >
               <div className="d-flex justify-content-center gap-2">
                 <a
@@ -46,7 +46,7 @@ export default function Footer() {
 
           {/* Combined Links (Boxes + Quick Links) */}
           <div className="col-md-8 d-flex align-items-stretch py-1 px-0" >
-            <div className="p-4 w-100 rounded-5" style={{ backgroundColor: "#322e74",border:"5px solid #352a9d" }}>
+            <div className="p-4 w-100 rounded-5" style={{ background: 'linear-gradient(180deg, #31246E 0%, #19144A 100%)',border:"5px solid #352a9d" }}>
               <div className="row">
                 {/* Boxes Links */}
                 <div className="col-md-6 px-5">
@@ -90,7 +90,7 @@ export default function Footer() {
             </div>
           </div>
         </div>
-        <div className="rounded-5 mb-5 mt-2 py-3 " style={{backgroundColor:"#322e74" ,border:"5px solid #352a9d"}}>
+        <div className="rounded-5 mb-5 mt-2 py-3 " style={{background: 'linear-gradient(180deg, #31246E 0%, #19144A 100%)' ,border:"5px solid #352a9d"}}>
         <div className="container d-flex flex-column flex-md-row justify-content-between align-items-center px-5">
           <p className="mb-2 mb-md-0 px-5   ">Digital Artisan © 2024. All rights reserved.</p>
           <div className="d-flex gap-5 px-5">

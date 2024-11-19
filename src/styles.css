@@ -19,12 +19,16 @@ body {
         object-fit: contain;
 
       }
+      .final-img{
+        filter: drop-shadow(0 0 1.3rem #74a4e2)
+      }
       .mask-img{
         height: 29vh;
         width: 100%;
         object-fit: cover;  
 
       }
+      
       .modal-content {
         
         color: #fff;
@@ -36,11 +40,13 @@ body {
         border-color: #342a9b;
       }
       
-      .btn-primary:hover {
-        background-color: #4b3edb;
-        border-color: #4b3edb;
-      }
-      
+    .nav-buttons {
+      background-color: #201955;
+      font-family: 'Bangers';
+      border-radius: 20px;
+      color: white;
+    }
+        
       .btn-close {
         color: #fff;
         opacity: 1;
@@ -50,9 +56,7 @@ body {
         transition: transform 0.3s ease;
       }
       
-      .modal-body img:hover {
-        transform: scale(1.05);
-      }
+      
       
       .pack-image {
         width: auto;
@@ -89,4 +93,143 @@ body {
 /* Hide scrollbar in Firefox */
 html {
   scrollbar-width: none;
+}
+/* Card container */
+.unique-card {
+  background-color: #1D2344;
+  border-radius: 30px;
+}
+
+/* Title */
+.unique-title {
+  text-align: center;
+  margin-top: 0.75rem;
+  margin-bottom: 0;
+  color: white;
+  font-size: small;
+  padding-left: 2vh;
+  padding-right: 2vh;
+  padding-top: 1vh;
+}
+
+/* Card image */
+.unique-card-img {
+  height: 25vh;
+  width: 100%;
+  filter: drop-shadow(0 -0.8rem 1.3rem #74a4e2);
+  padding-top: 10px;
+  padding-bottom: 10px;
+  object-fit: contain;
+  
+}
+
+/* Footer container */
+.unique-footer {
+  background-color: #141c31;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Footer span */
+.unique-footer-span {
+  background-color: #201e36;
+  padding: 0;
+  margin: 0;
+  border-radius: 100px;
+  border: 1px solid #403f62;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Button */
+.unique-button {
+  text-align: center;
+  letter-spacing: 0.01px;
+  background: #e0e5fe;
+  font-family: Bangers, sans-serif;
+  font-size: 17px;
+  color: #342a9b;
+  border-radius: 50px;
+  padding: 2px 8px;
+  border: 2px solid #342a9b;
+  width: 75%;
+}
+
+/* Price span */
+.unique-price {
+  color: white;
+  padding: 0 10px;
+  font-family: Bangers, sans-serif;
+  padding-right: 15px;
+  font-size: 1rem;
+}
+
+/* Card container */
+.custom-card {
+  background-color: #1D2344;
+  border-radius: 30px;
+}
+
+/* Card image */
+.custom-mask-img {
+  width: 100%;
+}
+
+/* Footer container */
+.custom-footer {
+  background-color: #141c31;
+  border-bottom-right-radius: 30px;
+  border-bottom-left-radius: 30px;
+  padding: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Footer span */
+.custom-footer-span {
+  background-color: #201e36;
+  padding: 0;
+  margin: 0;
+  border-radius: 100px;
+  border: 1px solid #403f62;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Button */
+.custom-btn {
+  text-align: center;
+  letter-spacing: 0.01px;
+  background: #e0e5fe;
+  font-family: Bangers, sans-serif;
+  font-size: 17px;
+  color: #342a9b;
+  border-radius: 50px;
+  padding: 2px 8px;
+  border: 2px solid #342a9b;
+  width: 75%;
+}
+
+/* Price span */
+.custom-price {
+  color: white;
+  padding: 0 10px;
+  font-family: Bangers, sans-serif;
+  padding-right: 15px;
+  font-size: 1rem;
+}
+
+/* Class for product images */
+.product-image {
+  height: auto;
+  width: 110px;
+  object-fit: contain;
+  filter: drop-shadow(0 0 2px #342a9b);
 }
